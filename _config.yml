@@ -6,15 +6,16 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: EduNTSE
 
 # Your name to show in the footer
-author: Some Person
+author: EduNTSE team
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: EduNTSE, a team comprising of young minds of our society, brings you an opportunity to get into our initiative for live iteractive preparatory classes for NTSE and other competetive exams. Along with regular online classes on every weekends, we also provide proper study materials and practice assignments to boost your preparation.
+
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
